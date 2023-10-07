@@ -1,3 +1,13 @@
+## 使用方法
+
+打开alfred，找到workflow目录：
+
+<img src="https://haobogu-md.oss-cn-hangzhou.aliyuncs.com/markdown/imgs/image-20231007174131603.png" alt="image-20231007174131603" style="zoom:50%;" />
+
+把 https://github.com/HaoboGu/NSC clone下来，复制到workflow目录，即可。
+
+---
+
 I've upgraded scripts to use `Python 3` because macOS 12.3 dropped `Python 2`. And I prefer to use a short version of command like `dec` and `bin` instead of `decimal` and `binary`.
 
 Original README:
